@@ -57,7 +57,7 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/zeyad-usf-360154214/" target="_blank">
+<a href="https://www.linkedin.com/in/zeyadusf/" target="_blank">
   <img src="https://img.shields.io/badge/-Zeyad Usf-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
